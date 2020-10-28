@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<old-cards xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://www.example.com/oldcards"
+           xs:schemaLocation="http://www.example.com/oldcards oldCard.xsd"
+>
+    <congratulation-old-card>
+        <id>1</id>
+        <theme>animal</theme>
+        <type>holiday</type>
+        <country>France</country>
+        <year>2010</year>
+        <author>Antonov V.</author>
+        <valuable>collection</valuable>
+        <was-send>false</was-send>
+        <congratulation-text>Happy Birthday</congratulation-text>
+    </congratulation-old-card>
+    <congratulation-old-card>
+        <id>2</id>
+        <theme>car</theme>
+        <type>holiday</type>
+        <country>Spain</country>
+        <year>2012</year>
+        <author>Gavrilov D.</author>
+        <valuable>collection</valuable>
+        <was-send>false</was-send>
+        <congratulation-text>Happy New Year</congratulation-text>
+    </congratulation-old-card>
+    <information-old-card>
+        <id>3</id>
+        <theme>nature</theme>
+        <type>adventure</type>
+        <country>Belarus</country>
+        <year>2001</year>
+        <author>Abramova A.</author>
+        <valuable>historical</valuable>
+        <was-send>true</was-send>
+        <sender-name>Ivanov P.</sender-name>
+        <sender-address>BY,Minsk, Lenina str., 1</sender-address>
+        <information-text>Good Morning</information-text>
+    </information-old-card>
+    <information-old-card>
+        <id>4</id>
+        <theme>sports</theme>
+        <type>simple</type>
+        <country>Russia</country>
+        <year>2005</year>
+        <author>Alekseeva K.</author>
+        <valuable>collection</valuable>
+        <was-send>true</was-send>
+        <sender-name>Petrov P.</sender-name>
+        <sender-address>BY,Moscow, Marksa str., 5</sender-address>
+        <information-text>Good Evening</information-text>
+    </information-old-card>
+</old-cards>
